@@ -1,6 +1,6 @@
 # 🐍 Python 30 Days
 
-My Python learning journey — 30 hands-on projects, growing in difficulty from simple command-line scripts to production-grade applications. Each level introduces new concepts that build on the last.
+My Python learning journey(29/07/2026) 30 hands-on projects, growing in difficulty from simple command-line scripts to production-grade applications. Each level introduces new concepts that build on the last.
 
 ## 📊 Progress
 
