@@ -36,7 +36,7 @@ Foundational scripts focused on input/output, control flow, and clean function s
 Each project is a standalone script. Requires **Python 3.10+** (some projects use the `match` statement).
 
 ```bash
-python "Level 1/temperature_converter.py"
+python "Level 1/temperature_converter/main.py"
 ```
 
 ## 🛠️ Tech
