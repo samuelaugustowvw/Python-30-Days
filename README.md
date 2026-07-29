@@ -12,7 +12,8 @@ My Python learning journey(29/07/2026) 30 hands-on projects, growing in difficul
 ---
 ## 📁 Level 1 — Very Easy
 Foundational scripts focused on input/output, control flow, and clean function structure.
-Concepts practiced in this level:** input validation with `try/except`, `while` loops, `match/case` branching, string manipulation, dictionaries, and splitting logic into small, single-purpose functions.
+
+Concepts practiced in this level: input validation with `try/except`, `while` loops, `match/case` branching, string manipulation, dictionaries, and splitting logic into small, single-purpose functions.
 | # | Project | Description |
 |:--|:--|:--|
 | 1 | [Temperature Converter](./Level%201/temperature_converter) | Converts temperatures between Celsius, Fahrenheit, and Kelvin (6 directions) via a menu loop. |
@@ -24,7 +25,8 @@ Concepts practiced in this level:** input validation with `try/except`, `while` 
 ---
 ## 📁 Level 2 — Beginner
 Projects that introduce **file persistence** and the first real-world **automation** — data that survives between runs.
-Concepts practiced in this level:** reading and writing files (`json`), the "load on start, save on every change" persistence pattern, CRUD operations, filesystem automation with `os` and `shutil`, `set` for tracking state, and data-driven logic with dictionaries.
+
+Concepts practiced in this level: reading and writing files (`json`), the "load on start, save on every change" persistence pattern, CRUD operations, filesystem automation with `os` and `shutil`, `set` for tracking state, and data-driven logic with dictionaries.
 | # | Project | Description |
 |:--|:--|:--|
 | 1 | [To-Do List](./Level%202/to_do_list) | Task manager with add/list/complete/remove, saving tasks to a JSON file so they persist between runs. |
