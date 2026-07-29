@@ -6,12 +6,12 @@ My Python learning journey — 30 hands-on projects, growing in difficulty from 
 
 | Level | Difficulty         | Projects | Status         |
 |-------|--------------------|:--------:|----------------|
-| 1     | Very Easy          |   5/5    | ✅ Completed   |
-| 2     | Easy               |   0/5    | ⬜ Not started |
-| 3     | Medium             |   0/5    | ⬜ Not started |
-| 4     | Hard               |   0/5    | ⬜ Not started |
-| 5     | Very Hard          |   0/5    | ⬜ Not started |
-| 6     | Junior Job-Ready   |   0/5    | ⬜ Not started |
+| 1     | Easy               |   5/5    | ✅ Completed   |
+| 2     | Beginner           |   0/5    | ⬜ Not started |
+| 3     | Intermediary       |   0/5    | ⬜ Not started |
+| 4     | Advanced           |   0/5    | ⬜ Not started |
+| 5     | Hardcore           |   0/5    | ⬜ Not started |
+| 6     | Professional       |   0/5    | ⬜ Not started |
 
 ---
 
