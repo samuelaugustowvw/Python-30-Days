@@ -23,7 +23,7 @@ Foundational scripts focused on input/output, control flow, and clean function s
 |---|---------|-------------|
 | 1 | [Temperature Converter](./Level%201/temperature_converter) | Converts temperatures between Celsius, Fahrenheit, and Kelvin (6 directions) via a menu loop. |
 | 2 | [Password Generator](./Level%201/password_generator) | Generates random passwords with configurable length and character types. |
-| 3 | [BMI Calculator](./Level%201/imc_calculator) | Calculates Body Mass Index from weight and height and returns the health classification. |
+| 3 | [IMC Calculator](./Level%201/imc_calculator) | Calculates Body Mass Index from weight and height and returns the health classification. |
 | 4 | [Guess the Number](./Level%201/guess_the_number) | Number guessing game with Easy/Medium/Hard difficulty and higher/lower hints. |
 | 5 | [Word Counter](./Level%201/word_and_character_count) | Counts characters, words, and lines in a text and builds a word-frequency table. |
 
