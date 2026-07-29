@@ -10,7 +10,7 @@ My Python learning journey(29/07/2026) 30 hands-on projects, growing in difficul
 | 5 | Hardcore | 0/5 | ⬜ Not started |
 | 6 | Professional | 0/5 | ⬜ Not started |
 ---
-## 📁 Level 1 — Very Easy
+## 📁 Level 1 — Easy
 Foundational scripts focused on input/output, control flow, and clean function structure.
 
 Concepts practiced in this level: input validation with `try/except`, `while` loops, `match/case` branching, string manipulation, dictionaries, and splitting logic into small, single-purpose functions.
