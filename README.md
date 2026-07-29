@@ -12,6 +12,7 @@ My Python learning journey(29/07/2026) 30 hands-on projects, growing in difficul
 ---
 ## 📁 Level 1 — Very Easy
 Foundational scripts focused on input/output, control flow, and clean function structure.
+Concepts practiced in this level:** input validation with `try/except`, `while` loops, `match/case` branching, string manipulation, dictionaries, and splitting logic into small, single-purpose functions.
 | # | Project | Description |
 |:--|:--|:--|
 | 1 | [Temperature Converter](./Level%201/temperature_converter) | Converts temperatures between Celsius, Fahrenheit, and Kelvin (6 directions) via a menu loop. |
@@ -20,10 +21,10 @@ Foundational scripts focused on input/output, control flow, and clean function s
 | 4 | [Guess the Number](./Level%201/guess_the_number) | Number guessing game with Easy/Medium/Hard difficulty and higher/lower hints. |
 | 5 | [Word Counter](./Level%201/word_and_character_counter) | Counts characters, words, and lines in a text and builds a word-frequency table. |
 
-**Concepts practiced in this level:** input validation with `try/except`, `while` loops, `match/case` branching, string manipulation, dictionaries, and splitting logic into small, single-purpose functions.
 ---
 ## 📁 Level 2 — Beginner
 Projects that introduce **file persistence** and the first real-world **automation** — data that survives between runs.
+Concepts practiced in this level:** reading and writing files (`json`), the "load on start, save on every change" persistence pattern, CRUD operations, filesystem automation with `os` and `shutil`, `set` for tracking state, and data-driven logic with dictionaries.
 | # | Project | Description |
 |:--|:--|:--|
 | 1 | [To-Do List](./Level%202/to_do_list) | Task manager with add/list/complete/remove, saving tasks to a JSON file so they persist between runs. |
@@ -32,7 +33,6 @@ Projects that introduce **file persistence** and the first real-world **automati
 | 4 | [Currency Converter](./Level%202/currency_converter) | Converts between any supported currencies using a single base-currency rate table, with session history. |
 | 5 | [File Organizer](./Level%202/file_organizer) | Sorts files in a folder into subfolders by extension, with a preview and confirmation before moving. |
 
-**Concepts practiced in this level:** reading and writing files (`json`), the "load on start, save on every change" persistence pattern, CRUD operations, filesystem automation with `os` and `shutil`, `set` for tracking state, and data-driven logic with dictionaries.
 ---
 ## 🚀 How to Run
 Each project is a standalone script. Requires **Python 3.10+** (some projects use the `match` statement).
