@@ -13,7 +13,7 @@ My Python learning journey(29/07/2026) 30 hands-on projects, growing in difficul
 ## 📁 Level 1 — Very Easy
 Foundational scripts focused on input/output, control flow, and clean function structure.
 
-Concepts practiced in this level:** input validation with `try/except`, `while` loops, `match/case` branching, string manipulation, dictionaries, and splitting logic into small, single-purpose functions.
+**Concepts practiced in this level:** input validation with `try/except`, `while` loops, `match/case` branching, string manipulation, dictionaries, and splitting logic into small, single-purpose functions.
 | # | Project | Description |
 |:--|:--|:--|
 | 1 | [Temperature Converter](./Level%201/temperature_converter) | Converts temperatures between Celsius, Fahrenheit, and Kelvin (6 directions) via a menu loop. |
@@ -50,14 +50,46 @@ Projects that reach out to **the internet** — consuming APIs, scraping web pag
 
 ---
 ## 🚀 How to Run
-Each project is a standalone script. Requires **Python 3.10+** (some projects use the `match` statement).
+ 
+Requires **Python 3.10+** (some projects use the `match` statement).
+ 
+**1. Clone the repository**
+```bash
+git clone https://github.com/samuelaugustowvw/python-30-days.git
+cd python-30-days
+```
+ 
+**2. Create and activate a virtual environment**
+```bash
+python -m venv .venv
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # Linux / macOS
+```
+ 
+**3. Install the dependencies** (needed for Level 3)
+```bash
+pip install -r requirements.txt
+```
+ 
+**4. Set the required secrets** (only for the Weather App and Telegram Bot)
+```bash
+# Windows (PowerShell)
+$env:OPENWEATHER_API_KEY="your_api_key"
+$env:TELEGRAM_BOT_TOKEN="your_bot_token"
+ 
+# Linux / macOS
+export OPENWEATHER_API_KEY="your_api_key"
+export TELEGRAM_BOT_TOKEN="your_bot_token"
+```
+ 
+**5. Run any project**
 ```bash
 python "Level 1/temperature_converter/main.py"
 ```
 ## 🛠️ Tech
 - **Language:** Python 3.10+
 - **Dependencies:** Standard library (Levels 1–2). Level 3 adds `requests`, `beautifulsoup4`, and `python-telegram-bot`.
-
 > **Note:** the Weather App and Telegram Bot read secrets (API key / bot token) from environment variables — no keys are committed to this repo.
 ## 👤 Author
 **[Samuel Augusto]** — [GitHub](https://github.com/samuelaugustowvw) · [LinkedIn](https://www.linkedin.com/in/samuel-augusto-bb398040b/)
+
