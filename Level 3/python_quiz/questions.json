@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which keyword defines a function in Python?",
+        "options": ["func", "def", "function", "lambda"],
+        "answer": "def"
+    },
+    {
+        "question": "What does the len() function return?",
+        "options": ["The last item", "The type", "The number of items", "The memory size"],
+        "answer": "The number of items"
+    },
+    {
+        "question": "Which data type is ordered and changeable?",
+        "options": ["tuple", "set", "list", "frozenset"],
+        "answer": "list"
+    },
+    {
+        "question": "What symbol starts a comment in Python?",
+        "options": ["//", "#", "/*", "--"],
+        "answer": "#"
+    },
+    {
+        "question": "Which method adds an item to the end of a list?",
+        "options": ["add()", "push()", "append()", "insert()"],
+        "answer": "append()"
+    },
+    {
+        "question": "What is the result of 3 ** 2?",
+        "options": ["6", "9", "5", "8"],
+        "answer": "9"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions?",
+        "options": ["catch", "except", "error", "handle"],
+        "answer": "except"
+    },
+    {
+        "question": "What does the 'bool' type represent?",
+        "options": ["Text", "Whole numbers", "True or False", "Decimals"],
+        "answer": "True or False"
+    },
+    {
+        "question": "Which function converts a string to an integer?",
+        "options": ["str()", "float()", "int()", "chr()"],
+        "answer": "int()"
+    },
+    {
+        "question": "How do you start a loop that runs while a condition is true?",
+        "options": ["for", "while", "loop", "repeat"],
+        "answer": "while"
+    }
+]
