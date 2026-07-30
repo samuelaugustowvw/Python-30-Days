@@ -45,7 +45,7 @@ Projects that reach out to **the internet** — consuming APIs, scraping web pag
 | 1 | [Weather App](./Level%203/weather_app) | Fetches live weather for any city from the OpenWeatherMap API and parses the nested JSON response. |
 | 2 | [Web Scraper](./Level%203/book_scraper) | Scrapes book titles, prices, and ratings from a web page with BeautifulSoup and saves them to CSV. |
 | 3 | [Python Quiz](./Level%203/python_quiz) | Multiple-choice quiz that loads questions from an external JSON file, shuffles them, and tracks a high score. |
-| 4 | [URL Shortener](./Level%203/url_shortener) | Generates unique short codes for long URLs, expands them back, tracks clicks, and persists to JSON. |
+| 4 | [URL Shortener](./Level%203/url_shortener)   | Generates unique short codes for long URLs, expands them back, tracks clicks, and persists to JSON. |
 | 5 | [Telegram Bot](./Level%203/telegram_bot) | A live Telegram bot with commands (`/start`, `/help`, `/echo`, `/roll`) built on the async python-telegram-bot library. |
 
 ---
